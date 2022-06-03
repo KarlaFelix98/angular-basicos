@@ -5,6 +5,19 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent {
-  title = 'bases';
-}
+
+
+
+ /* sumar(){
+    //this se pone para hacer referencia a la propiedad de la clase
+    this.numero += 1;
+  }
+
+  restar(){
+    this.numero -= 1;
+  } */
+
+  export class AppComponent {
+  }
+ 
+
